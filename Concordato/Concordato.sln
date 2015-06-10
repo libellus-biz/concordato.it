@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concordato", "Concordato\Concordato.csproj", "{CC653C0D-EC82-45D4-B494-C631249BF892}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concordato.Core", "Concordato.Core\Concordato.Core.csproj", "{86141FDD-4FDB-4221-A45A-7AD835960B5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CC653C0D-EC82-45D4-B494-C631249BF892}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC653C0D-EC82-45D4-B494-C631249BF892}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC653C0D-EC82-45D4-B494-C631249BF892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86141FDD-4FDB-4221-A45A-7AD835960B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86141FDD-4FDB-4221-A45A-7AD835960B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86141FDD-4FDB-4221-A45A-7AD835960B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86141FDD-4FDB-4221-A45A-7AD835960B5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
